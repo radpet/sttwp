@@ -1,0 +1,33 @@
+{
+  "name": "Prestrify.js",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Radoslav Petkov"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "web",
+    "slides",
+    "presentations"
+  ],
+  "homepage": "https://github.com/radpet/Prestrify.js",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "system.js": "https://github.com/systemjs/systemjs.git#~0.19.9",
+    "plugin-text": "https://github.com/systemjs/plugin-text.git#~0.0.4",
+    "plugin-css": "https://github.com/systemjs/plugin-css.git#~0.1.20",
+    "reveal.js": "~3.2.0",
+    "bluebird": "~3.3.3",
+    "handlebars": "~4.0.5"
+  },
+  "devDependencies": {
+  }
+}

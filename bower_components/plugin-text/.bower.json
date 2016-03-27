@@ -1,0 +1,14 @@
+{
+  "name": "plugin-text",
+  "homepage": "https://github.com/systemjs/plugin-text",
+  "version": "0.0.7",
+  "_release": "0.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.7",
+    "commit": "87a7bc2e4dc8f6787b681abf669438190ff62e25"
+  },
+  "_source": "https://github.com/systemjs/plugin-text.git",
+  "_target": "~0.0.4",
+  "_originalSource": "https://github.com/systemjs/plugin-text.git"
+}

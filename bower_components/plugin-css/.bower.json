@@ -1,0 +1,14 @@
+{
+  "name": "plugin-css",
+  "homepage": "https://github.com/systemjs/plugin-css",
+  "version": "0.1.20",
+  "_release": "0.1.20",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.20",
+    "commit": "3ed425467b4341e4bee009f267c3b6c992ef8402"
+  },
+  "_source": "https://github.com/systemjs/plugin-css.git",
+  "_target": "~0.1.20",
+  "_originalSource": "https://github.com/systemjs/plugin-css.git"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "sttwp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.7.7"
+  },
+  "devDependencies": {
+    "Prestrify.js": "github:radpet/Prestrify.js",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-util": "^3.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radpet/sttwp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radpet/sttwp/issues"
+  },
+  "homepage": "https://github.com/radpet/sttwp#readme"
+}
